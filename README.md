@@ -7,6 +7,7 @@ Implementação do DES para criptografia de imagens
 Como rodar:
 
 (dentro do diretório DES, onde está a main)
+
 python3 main.py  
 
 Por default a criptografia utiliza a imagem da lenna, caso queira mudar, faça uplaod
